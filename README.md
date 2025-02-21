@@ -3,8 +3,8 @@
 <h3 align="center">Java developer</h3>
 
 ## How to contact me:
-* ✉️  You can contact me at [ryazanov.na@yandex.ru](ryazanov.na@yandex.ru)  
-* ✉️  Write in telegram [@ryazanov_na](https://t.me/ryazanov_na)
+✉️  You can contact me at [ryazanov.na@yandex.ru](ryazanov.na@yandex.ru)  
+✉️  Write in telegram [@ryazanov_na](https://t.me/ryazanov_na)
 
 <div id="badges">
 
