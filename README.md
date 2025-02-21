@@ -55,4 +55,6 @@ Hexlet: Java-developer
 
 #### 🔎 [Data validator](https://github.com/bf-6/java-project-78)
 
+#### 📓 [Task manager](https://github.com/bf-6/java-project-99)
+
 
