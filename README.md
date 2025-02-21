@@ -49,12 +49,14 @@ Hexlet: Java-developer
 
 ## My project
 
-#### 🧮 [Brain Games](https://github.com/bf-6/java-project-61)
+#### 🧩 [Brain Games](https://github.com/bf-6/java-project-61)
 
-#### 🟰 [Difference Calculator](https://github.com/bf-6/java-project-71)
+#### 📊 [Difference Calculator](https://github.com/bf-6/java-project-71)
 
-#### 🔎 [Data validator](https://github.com/bf-6/java-project-78)
+#### 🧮 [Data Validator](https://github.com/bf-6/java-project-78)
 
-#### 📓 [Task manager](https://github.com/bf-6/java-project-99)
+#### 📄 [Page Analyzer](https://github.com/bf-6/java-project-72)
+
+#### 📓 [Task Manager](https://github.com/bf-6/java-project-99)
 
 
